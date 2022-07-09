@@ -1,4 +1,4 @@
-# bestby-telegrambot
+# best-by-telegram-bot
 @best_by_bot on telegram was created for LifeHack 2022 by Team OCTAC
 
 ![IMG_4284](https://user-images.githubusercontent.com/66177132/178124199-605e8300-1b6c-4b5b-ac7f-d4e49aca4b9b.PNG)
