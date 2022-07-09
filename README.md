@@ -1,6 +1,8 @@
 # best-by-telegram-bot
 @best_by_bot on telegram was created for LifeHack 2022 by Team OCTAC
 
+The BestBy application makes use of a BestBy Telegram bot, which scans receipts to obtain the list of food items purchased in order to determine their Best By dates through Optical Character Recognition (OCR). This information will be incorporated into our application to send reminders to users when their food items are expiring, so as to minimise food wastage. In addition, BestBy educates users on the ideal food storage methods and recipes that make use of leftover food, as well as provide a community feature for users to give away excess food that are reaching their Best By dates. Therefore, this reduces the amount of unnecessary food waste produced by households and individuals.
+
 ![IMG_4284](https://user-images.githubusercontent.com/66177132/178124199-605e8300-1b6c-4b5b-ac7f-d4e49aca4b9b.PNG)
 ![IMG_4285](https://user-images.githubusercontent.com/66177132/178124203-e70e745f-748f-4630-8caf-d071471ff0e2.PNG)
 ![IMG_4286](https://user-images.githubusercontent.com/66177132/178124208-1abf9081-8c23-499d-8dc4-9efd5857b642.PNG)
