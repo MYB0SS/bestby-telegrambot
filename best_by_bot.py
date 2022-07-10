@@ -1,8 +1,9 @@
 import telebot
 import requests
 
-TELEGRAM_API_KEY="5168285308:AAENLwEfvIMwn406OyL3djH9jjscxellKvU"
-OCR_SPACE_API_KEY="K88856443088957"
+# changes made on 10/7 3.32pm to mask out telegram API key
+TELEGRAM_API_KEY="YOUR API KEY"
+OCR_SPACE_API_KEY="YOUR OCR KEY"
 
 bot = telebot.TeleBot(f'{TELEGRAM_API_KEY}', parse_mode=None) 
 
