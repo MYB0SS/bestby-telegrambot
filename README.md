@@ -1,4 +1,4 @@
-# best-by-telegram-bot
+# NUS LifeHack 2022 best-by-telegram-bot
 @best_by_bot on telegram was created for LifeHack 2022 by Team OCTAC
 
 
